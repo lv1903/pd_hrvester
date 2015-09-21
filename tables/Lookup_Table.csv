@@ -1,0 +1,101 @@
+source_field,source_value,target_field,target_value
+application_type,ARM,ServiceTypeURI,http://id.esd.org.uk/service/1731
+application_type,Art,ServiceTypeURI,http://id.esd.org.uk/service/1734
+application_type,FUL,ServiceTypeURI,http://id.esd.org.uk/service/486
+application_type,LAW,ServiceTypeURI,http://id.esd.org.uk/service/1712
+application_type,NMA,ServiceTypeURI,http://id.esd.org.uk/service/1739
+application_type,OUT,ServiceTypeURI,http://id.esd.org.uk/service/1730
+application_type,PRE,ServiceTypeURI,http://id.esd.org.uk/service/1737
+application_type,REL,ServiceTypeURI,http://id.esd.org.uk/service/1735
+application_type,SCR,ServiceTypeURI,http://id.esd.org.uk/service/1738 
+application_type,VAR,ServiceTypeURI,http://id.esd.org.uk/service/1735
+application_type,ARM,ServiceTypeLabel,Planning reserved matters
+application_type,Art,ServiceTypeLabel,Discharge of planning conditions
+application_type,FUL,ServiceTypeLabel,Full planning applications
+application_type,LAW,ServiceTypeLabel,Lawful Development Certificate existing use
+application_type,NMA,ServiceTypeLabel,Planning non-material amendments
+application_type,OUT,ServiceTypeLabel,Outline planning consent
+application_type,PRE,ServiceTypeLabel,Planning pre-application advice
+application_type,REL,ServiceTypeLabel,Removal/variation of planning conditions
+application_type,SCR,ServiceTypeLabel,Environmental Impact Assessment screening
+application_type,VAR,ServiceTypeLabel,Removal/variation of planning conditions
+dbo_lookup_stats_type_description,Chalk,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,China and Ball Clay,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Clay/Shale,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Coal (deep mined),ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Coal (open cast),ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Gypsum/Anhydrite,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Igneous Rock,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Ironstone,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Limestone/Dolomite,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Oil/Gas Exploration,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6024
+dbo_lookup_stats_type_description,Oil/Gas Appraisal,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6024
+dbo_lookup_stats_type_description,Oil/Gas Development,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6024
+dbo_lookup_stats_type_description,Sand and Gravel,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Sand (excluding silica sand),ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Sandstone,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Slate,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Vein Minerals,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Other Minerals,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Recycling Plans for Secondary Aggregates,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Coal Bed Methane Production,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Coal Bed Methane Exploration/Appraisal,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Silica Sand,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6023
+dbo_lookup_stats_type_description,Landfill,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6025
+dbo_lookup_stats_type_description,Transfer Station,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6025
+dbo_lookup_stats_type_description,Treatment,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6025
+dbo_lookup_stats_type_description,Storage,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6025
+dbo_lookup_stats_type_description,Oil/Solvent Recovery,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6025
+dbo_lookup_stats_type_description,Incineration with Energy Recovery,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6025
+dbo_lookup_stats_type_description,Incineration without Energy Recovery ,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6025
+dbo_lookup_stats_type_description,Scrap Yards,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6025
+dbo_lookup_stats_type_description,Civic Amenity,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6025
+dbo_lookup_stats_type_description,Materials Recovery/Recycling (other than,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6025
+dbo_lookup_stats_type_description,Other Waste,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6025
+dbo_lookup_stats_type_description,Composting,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6025
+dbo_lookup_stats_type_description,Anaerobic Digestion,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6025
+dbo_lookup_stats_type_description,Pyrolysis,ClassificationURI,http://opendatacommunities.org/def/concept/planning/application/6000/6025
+dbo_lookup_stats_type_description,Other County Matter,ClassificationURI,? http://opendatacommunities.org/def/concept/planning/application/6000/6026
+dbo_lookup_stats_type_description,Chalk,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,China and Ball Clay,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Clay/Shale,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Coal (deep mined),ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Coal (open cast),ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Gypsum/Anhydrite,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Igneous Rock,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Ironstone,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Limestone/Dolomite,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Oil/Gas Exploration,ClassificationLabel,Q41 Oil and gas (CPS 10-12)
+dbo_lookup_stats_type_description,Oil/Gas Appraisal,ClassificationLabel,Q41 Oil and gas (CPS 10-12)
+dbo_lookup_stats_type_description,Oil/Gas Development,ClassificationLabel,Q41 Oil and gas (CPS 10-12)
+dbo_lookup_stats_type_description,Sand and Gravel,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Sand (excluding silica sand),ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Sandstone,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Slate,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Vein Minerals,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Other Minerals,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Recycling Plans for Secondary Aggregates,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Coal Bed Methane Production,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Coal Bed Methane Exploration/Appraisal,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Silica Sand,ClassificationLabel,Q60 Minerals (CPS 1-9 and 13-22)
+dbo_lookup_stats_type_description,Landfill,ClassificationLabel,Q42 Waste (CPS 30-43)
+dbo_lookup_stats_type_description,Transfer Station,ClassificationLabel,Q42 Waste (CPS 30-43)
+dbo_lookup_stats_type_description,Treatment,ClassificationLabel,Q42 Waste (CPS 30-43)
+dbo_lookup_stats_type_description,Storage,ClassificationLabel,Q42 Waste (CPS 30-43)
+dbo_lookup_stats_type_description,Oil/Solvent Recovery,ClassificationLabel,Q42 Waste (CPS 30-43)
+dbo_lookup_stats_type_description,Incineration with Energy Recovery,ClassificationLabel,Q42 Waste (CPS 30-43)
+dbo_lookup_stats_type_description,Incineration without Energy Recovery ,ClassificationLabel,Q42 Waste (CPS 30-43)
+dbo_lookup_stats_type_description,Scrap Yards,ClassificationLabel,Q42 Waste (CPS 30-43)
+dbo_lookup_stats_type_description,Civic Amenity,ClassificationLabel,Q42 Waste (CPS 30-43)
+dbo_lookup_stats_type_description,Materials Recovery/Recycling (other than,ClassificationLabel,Q42 Waste (CPS 30-43)
+dbo_lookup_stats_type_description,Other Waste,ClassificationLabel,Q42 Waste (CPS 30-43)
+dbo_lookup_stats_type_description,Composting,ClassificationLabel,Q42 Waste (CPS 30-43)
+dbo_lookup_stats_type_description,Anaerobic Digestion,ClassificationLabel,Q42 Waste (CPS 30-43)
+dbo_lookup_stats_type_description,Pyrolysis,ClassificationLabel,Q42 Waste (CPS 30-43)
+dbo_lookup_stats_type_description,Other County Matter,ClassificationLabel,Q43 County other (CPS 50)
+Expr1016,Delegated by officer,DecisionType,Delegated
+Expr1016,Applicant,DecisionType,
+Expr1016,Committee,DecisionType,Committee
+Expr1017,Granted,Decision,Approve
+Expr1017,Refused,Decision,Refuse
+Expr1017,Withdrawn,Decision,Withdrawn
