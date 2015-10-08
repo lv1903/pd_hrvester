@@ -259,11 +259,13 @@ function getJson(){ //gets the json from a csv instead of post
 
 };
 
-getJson() //test mapping
+//getJson() //test mapping
 
 
 
 //***********************************************************************
+
+console.log("JERE")
 
 app.post('/', function(request, response){
 
