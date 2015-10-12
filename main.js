@@ -265,7 +265,7 @@ function getJson(){ //gets the json from a csv instead of post
 
 //***********************************************************************
 
-console.log("JERE")
+
 
 app.post('/', function(request, response){
 
